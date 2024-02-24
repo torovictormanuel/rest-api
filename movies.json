@@ -1,0 +1,74 @@
+{
+    "peliculas": [
+      {
+        "titulo": "El Padrino",
+        "director": "Francis Ford Coppola",
+        "anio": 1972,
+        "genero": "Drama",
+        "id": 1
+      },
+      {
+        "titulo": "Titanic",
+        "director": "James Cameron",
+        "anio": 1997,
+        "genero": "Romance",
+        "id": 2
+      },
+      {
+        "titulo": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "anio": 1994,
+        "genero": "Crimen",
+        "id": 3
+      },
+      {
+        "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+        "director": "Peter Jackson",
+        "anio": 2001,
+        "genero": "Aventura",
+        "id": 4
+      },
+      {
+        "titulo": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "anio": 1994,
+        "genero": "Drama",
+        "id": 5
+      },
+      {
+        "titulo": "La La Land",
+        "director": "Damien Chazelle",
+        "anio": 2016,
+        "genero": "Musical",
+        "id": 6
+      },
+      {
+        "titulo": "Matrix",
+        "director": "Lana y Lilly Wachowski",
+        "anio": 1999,
+        "genero": "Ciencia ficción",
+        "id": 7
+      },
+      {
+        "titulo": "El Laberinto del Fauno",
+        "director": "Guillermo del Toro",
+        "anio": 2006,
+        "genero": "Fantasía",
+        "id": 8
+      },
+      {
+        "titulo": "El Club de la Lucha",
+        "director": "David Fincher",
+        "anio": 1999,
+        "genero": "Drama",
+        "id": 9
+      },
+      {
+        "titulo": "Toy Story",
+        "director": "John Lasseter",
+        "anio": 1995,
+        "genero": "Animación",
+        "id": 10
+      }
+    ]
+  }
